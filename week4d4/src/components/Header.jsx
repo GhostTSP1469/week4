@@ -25,7 +25,7 @@ export default class Header extends React.Component {
              
               <img src={gridicon} alt="Grid Icon" />
               <span className="font-bold text-2xl text-black">Grid</span>
-            </div>
+             </div>
 
             {/* Center: Navigation with yellow dots */}
             <nav className="flex items-center gap-2">
